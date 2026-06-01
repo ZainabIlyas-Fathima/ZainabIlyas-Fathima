@@ -11,16 +11,13 @@ I am a university student who enjoys working with messy datasets and making sens
 
 ## 🛠️ Data Stack & Technical Tools
 
-* **Core Languages:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="35" height="35" />
+* **Core Languages:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="35" height="35" />
 
-* **Data & Machine Learning:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="35" height="35" />
+* **Data & Machine Learning:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="35" height="35" />
 
-* **Data Visualization & BI:** <img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="35" height="35" style="background-color: white; border-radius: 4px; padding: 2px;" /> &nbsp; <img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="35" height="35" /> &nbsp; <img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Excel" width="35" height="35" />
+* **Data Visualization & BI:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" alt="Tableau" width="35" height="35" /> &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" alt="Power BI" width="35" height="35" /> &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg" alt="Excel" width="35" height="35" />
 
-* **Developer Ecosystem:** 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="35" height="35" />
+* **Developer Ecosystem:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="35" height="35" />
 
 ---
 
