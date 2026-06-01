@@ -64,4 +64,4 @@ I am a university student who enjoys working with messy datasets and making sens
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](👉https://www.linkedin.com/in/fathima-zainab-ilyas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-zainab-ilyas)
